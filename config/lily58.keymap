@@ -173,7 +173,7 @@
     };
 
     keymap {
-        compatible = "zmk,keymap";
+        compatible = "zmk,keymap"; 
 
         default_layer {
             display-name = "base";
