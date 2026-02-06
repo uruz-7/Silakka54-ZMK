@@ -190,7 +190,7 @@
         };
 
         layer_fn1 {
-            display-name = "Fn 1";
+            display-name = "Fn1";
             bindings = <
                 &kp F12   &kp F1     &kp F2            &kp F3           &kp F4          &kp F5                        &kp F6          &kp F7    &kp F8    &kp F9    &kp F10         &kp F11
                 &kp INS   &kp TAB    &kp C_VOLUME_DOWN &kp UP           &kp C_VOLUME_UP &kp SLCK                      &kp PAUSE_BREAK &kp KP_N7 &kp KP_N8 &kp KP_N9 &kp KP_PLUS     &kp KP_MINUS
@@ -201,7 +201,7 @@
         };
 
         layer_fn2 {
-            display-name = "Fn 2";
+            display-name = "Fn2";
             bindings = <
                 &kp C_AL_MAIL &kp F1    &kp F2  &kp F3    &kp F4       &kp F5                           &kp F6    &kp F7    &kp F8    &kp F9   &kp F10  &kp C_AL_CALC
                 &kp GRAVE     &kp N1    &kp N2  &kp N3    &kp N4       &kp N5                           &kp N6    &kp N7    &kp N8    &kp N9   &kp N0   &kp BACKSLASH
@@ -212,7 +212,7 @@
         };
 
         layer_fn3 {
-            display-name = "Fn 3";
+            display-name = "Fn3";
             bindings = <
                 &kp F24    &kp F13      &kp F14        &kp F15        &kp F16         &kp F17                          &kp F18  &kp F19        &kp F20        &kp F21         &kp F22 &kp F23
                 &none      &none        &mkp RCLK      &mmv MOVE_UP   &mkp LCLK       &mkp MB4                         &mkp MB5 &mkp MB3       &msc SCRL_UP   &none           &none   &none
