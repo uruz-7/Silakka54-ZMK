@@ -7,20 +7,20 @@ layers:
     - ["Tab", "Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P", "Bksp"]
     - ["LCtrl", "A", "S", "D", "F", "G", "H", "J", "K", "L", "Enter", "Enter"]
     - ["LShft", "Z", "X", "C", "V", "B", "N", "M", ",", ".", "/", {"t": "Del", "h": "RShft"}]
-    - ["LGui", {"t": "Space", "h": "Fn 1"}, "Space", "Fn 3", {"t": "Space", "h": "Fn 2"}, "RAlt"]
-  Fn 1:
+    - ["LGui", {"t": "Space", "h": "Fn1"}, "Space", "Fn3", {"t": "Space", "h": "Fn2"}, "RAlt"]
+  Fn1:
     - ["F12", "F1", "F2", "F3", "F4", "F5", "F6", "F7", "F8", "F9", "F10", "F11"]
     - ["Ins", "Tab", "Vol -", "↑", "Vol +", "Scroll Lock", "Pause", "7", "8", "9", "+", "-"]
     - ["Caps Lock", "Mute", "←", "↓", "→", "Home", "Page Up", "4", "5", "6", "Bksp", "Num Enter"]
     - ["Print Screen", "Stop", "Prev", "Play", "Next", "End", "Page Down", "1", "2", "3", "*", "/"]
     - ["Num Lock", "TG(1)", "Space", "TG(3)", "0", "."]
-  Fn 2:
+  Fn2:
     - ["Mail", "F1", "F2", "F3", "F4", "F5", "F6", "F7", "F8", "F9", "F10", "Calc"]
     - ["`", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "\\"]
     - ["App", ":", "\"", "+", "_", "[", "]", "-", "=", "'", ";", "Enter"]
     - ["~", "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "|"]
     - ["~", "Bri -", "Bri +", "{", "TG(2)", "}"]
-  Fn 3:
+  Fn3:
     - ["F24", "F13", "F14", "F15", "F16", "F17", "F18", "F19", "F20", "F21", "F22", "F23"]
     - ["", "", "Mouse R", "Mouse ↑", "Mouse L", "Mouse Back", "Mouse Fwd", "Mouse M", "Scroll ↑", "", "", ""]
     - ["", "", "Mouse ←", "Mouse ↓", "Mouse →", "", "", "Scroll ←", "Scroll ↓", "Scroll →", "", "RShft"]
