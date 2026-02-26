@@ -1,11 +1,11 @@
 manifest:
   remotes:
-    - name: zmkfirmware
-      url-base: https://github.com/zmkfirmware
+    - name: uruz-7
+      url-base: https://github.com/uruz-7
   projects:
     - name: zmk
-      remote: zmkfirmware
-      revision: main
+      remote: uruz-7
+      revision: v0.3.5
       import: app/west.yml
   self:
     path: config
